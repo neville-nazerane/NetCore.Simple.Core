@@ -1,0 +1,1 @@
+# NetCore.Simple.Core
