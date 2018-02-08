@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <PackageId>NetCore.Simple.Core</PackageId>
+    <PackageVersion>1.2.6</PackageVersion>
+    <Authors>Neville Nazerane</Authors>
+    <Description>
+      Light libary designed for the core project, currently for the following libraries:
+      - NetCore.Simple
+      - ConsumeAPI.Simple
+    </Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>
+      - Moved basic models abstractions from NetCore.Simple
+    </PackageReleaseNotes>
+    <PackageTags>netcore simple core</PackageTags>
+    <!--<PackageIconUrl>http://netcoresimple.azurewebsites.net/content/themes/icon.png</PackageIconUrl>-->
+    <PackageProjectUrl>http://netcoresimple.azurewebsites.net</PackageProjectUrl>
+    <RootNamespace>NetCore.Simple.Core</RootNamespace>
+    <AssemblyName>NetCore.Simple.Core</AssemblyName>
+  </PropertyGroup>
+
+</Project>
